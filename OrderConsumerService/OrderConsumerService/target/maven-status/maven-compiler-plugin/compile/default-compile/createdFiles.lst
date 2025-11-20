@@ -1,0 +1,4 @@
+com\kafkaConsumer\OrderConsumerService\Repository\OrderRepository.class
+com\kafkaConsumer\OrderConsumerService\OrderConsumerServiceApplication.class
+com\kafkaConsumer\OrderConsumerService\Service\OrderService.class
+com\kafkaConsumer\OrderConsumerService\Entity\Order.class
